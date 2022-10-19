@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ladygali
 - 👀 I’m interested in learning to code. 
-- 🌱 I’m currently learning Python. 
-- 💞️ I’m looking to collaborate on enrolling in an online coding program at a university. 
+- 🌱 I’m currently learning HTML and CSS.
+- 💞️ I’m really good at baking cupcakes and singing.
 - 📫 How to reach me elyse.galizio@gmail.com
 
 <!---
